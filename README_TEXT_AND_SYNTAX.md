@@ -41,9 +41,10 @@ This is a line
       - under unorder2.2
  - unorder3
 # Task list
- [x]|Task 1
- [x]| Task 2
- []]| Task 3
+ [x]Task1
+ [x]Task 2
+ []]Task 3
+ 
 # Automatic link
 https://www.google.com
 # disable link
