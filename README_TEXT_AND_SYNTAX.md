@@ -2,9 +2,9 @@
 This is a line
 # this is H1
 ## this is h2
-.
-.
-.
+.  
+.  
+.  
 ######This is H6
 <!-- This is paragraph -->
  <p> paragraph</p>
@@ -16,8 +16,8 @@ This is a line
  __this is bold__
 
  <!-- inline code block in md -->
- `this is inline  
- print("this is python code")`
+ `this is inline`    
+ 'print("this is python code")'
 # multiple line cod block in md '
  ```html
  <!DOCTYPE html>
@@ -41,17 +41,17 @@ This is a line
       - under unorder2.2
  - unorder3
 # Task list
- [x] Task 1
- [x] Task 2
- [] Task 3
-#Automatic link
+ [x]|Task 1
+ [x]| Task 2
+ []]| Task 3
+# Automatic link
 https://www.google.com
-#disable link
+# disable link
 'https://www.google.com'
-#markdown link syntax
-#[msg](link)
+# markdown link syntax
+# [msg](link)
 [GOOGLE](https://www.google.com)
-#When use multiple link
+# When use multiple link
 ## all link is here
 [GOOGLE]:https://www.google.com
 [FACEBOOK]:https://www.facebook.com
@@ -62,7 +62,7 @@ https://www.google.com
 # img use html tag
 <img src="C:\Users\JASIM\Desktop\my project\img\showcase.jpg">
 < img src="./img\showcase.jpg">
-#table in readme
+# table in readme
  | Header One     | Header Two     |
 | :------------- | :------------- |
 | Item One       | Item Two       |
