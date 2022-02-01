@@ -17,7 +17,7 @@ This is a line
 
  <!-- inline code block in md -->
  `this is inline`    
- 'print("this is python code")'
+ `print("this is python code")`
 # multiple line cod block in md '
  ```html
  <!DOCTYPE html>
